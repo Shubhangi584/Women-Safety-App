@@ -12,23 +12,11 @@ it is simple to implement,easy to understand.
 - Sends Last Known Location to registered mobile
 - Now we can add multiple contacts to send SOS
 
-#### Prerequisites :
-- Android Studio
-- Basic knowledge about Firebase Authentication and Realtime database.
-## Build and Run Application
 
-# A Women Safety Application requires Android Oreo or newer version to run.
-Follow this steps to get Working Project!
-```
-Clone this repository or download file
-Extract zip if downloaded code
-Open project in Android Studio
-Wait while Android Studio Download gradle or required files
-Hit Run Button !
 
-![1](https://github.com/user-attachments/assets/09039f3e-3c5e-40aa-af9d-ef296de24d8c)
+[1](https://github.com/user-attachments/assets/b6393812-d319-491d-99ef-35618dc07ab2)
 
-![1](https://github.com/user-attachments/assets/f4a63506-a56f-46cb-8970-0dd75a42cc13)
+
 ![15](https://github.com/user-attachments/assets/0b06cbf9-5716-48d9-8f0d-59f2abdf2a6e)
 ![13](https://github.com/user-attachments/assets/9292def5-9628-420c-a779-9e42831b953f)
 ![12](https://github.com/user-attachments/assets/e48c9049-04d1-4542-9d6d-5ab6249d7d6b)
